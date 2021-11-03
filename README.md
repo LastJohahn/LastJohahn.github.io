@@ -1,8 +1,8 @@
-## Introduction:
+## Introduction
 
 Welcome to my Github Page! This is where I host my portfolio. Feel free to check it out [here](https://lastjohahn.github.io/).
 
-## Credits:
+## Credits
 
 Story by HTML5 UP
 html5up.net | @ajlkn
