@@ -175,6 +175,29 @@ a:visited {
         grid-area: content;
     }
 
+    .patience {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-areas: 'content img';
+        padding: 0; 
+    }
+
+    .patience img {
+        grid-area: img;
+        max-height: 360px;
+    }
+
+    .patience .content {
+        display: block;
+        align-self: center;
+        text-align: left;
+        padding: 5px;
+        margin: 0.75em;
+        font-size: larger;
+        line-height: 1.5em;
+        grid-area: content;
+    }
+
     .first {
         display: grid;
         grid-template-columns: 50% 50%;
